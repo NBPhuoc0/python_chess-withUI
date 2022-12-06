@@ -1,0 +1,27 @@
+
+FPS = 60
+WIDTH, HEIGHT = 660,660
+DIMENSIONS = 8
+PIE_SIZE = WIDTH//DIMENSIONS
+INF = float('inf')
+
+# độ khó
+
+DEPTH = 3
+
+# MÀU
+BLACK = (0,0,0)
+WHITE = (245,245,245)
+GRAY = (169,169,169)
+CYAN = (0,255,255)
+NAVY = (0,0,128)
+D_RED = (139,0,0)
+RED = (255,0,0)
+L_RED = (255,69,0)
+LIME = (50,205,50)
+VIOLET = (148,0,211)
+
+
+
+
+
